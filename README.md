@@ -69,7 +69,8 @@ Description: Learn 50 words from a foreign language
 Periodicity: Monthly
 Reminder: None
 
-4. Points and Broken Streaks
+4. Reward System
+- Points and Broken Streaks
 
 Upon successful login, the system will check for any broken streaks for TeeLv's habits. Every time a streak is broken, TeeLv will be penalized by deducting 10 points. However, this deduction is executed only once on a given date. This means if TeeLv logs out and logs back in on the same date, the points will not be deducted again.
 
@@ -77,12 +78,10 @@ For example, if TeeLv has broken 3 streaks today and hasn't logged in until toda
 
 To check the total points for TeeLv, you can use option "4" in the menu. This will provide you with the current point balance for TeeLv.
 
-5. Reward System
-
-Explanation for Points Deduction
+- Explanation for Points Deduction
 
 The rationale for the points system is to motivate the user to maintain consistency in their habits. By penalizing broken streaks, we hope to encourage users like TeeLv to stick to their habits and achieve their goals. The system is designed to be fair by ensuring that points are deducted only once for a specific date of a log in, even if the user logs in multiple times on the date.
 
-6. Technology Stack
+5. Technology Stack
 Language: Python
 DataBase: SQLite
