@@ -70,6 +70,7 @@ Periodicity: Monthly
 Reminder: None
 
 4. Reward System
+
 - Points and Broken Streaks
 
 Upon successful login, the system will check for any broken streaks for TeeLv's habits. Every time a streak is broken, TeeLv will be penalized by deducting 10 points. However, this deduction is executed only once on a given date. This means if TeeLv logs out and logs back in on the same date, the points will not be deducted again.
