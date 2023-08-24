@@ -84,5 +84,5 @@ To check the total points for TeeLv, you can use option "4" in the menu. This wi
 The rationale for the points system is to motivate the user to maintain consistency in their habits. By penalizing broken streaks, we hope to encourage users like TeeLv to stick to their habits and achieve their goals. The system is designed to be fair by ensuring that points are deducted only once for a specific date of a log in, even if the user logs in multiple times on the date.
 
 5. Technology Stack
-Language: Python
-DataBase: SQLite
+- Language: Python
+- DataBase: SQLite
