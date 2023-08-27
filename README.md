@@ -19,7 +19,9 @@ This will start the Habit Tracker CLI and guide you through the available option
 
 📖 **Usage**
 When you run the CLI, you'll be presented with options to *register*, *log in*, or *quit*.
-After logging in, you can add habits, view your habits/delete some if needed, mark habits as complete, check your rewards, view analytics, or log out.
+
+After 🔑 logging in, you can ➕ add habits, 👁️ view your habits/ 🧹 delete some if needed, ☑️ mark habits as complete, 🥇 check your rewards, 📈 view analytics, or 
+👋 log out.
 
 🔑 **Logging in as TeeLv**
 Ensure that the provided SQLite database file *habit.db* is located in the same directory as the script. To log in as user TeeLv use:
@@ -32,22 +34,22 @@ If the login is successful, the program will be able to show TeeLv's analytics f
 📜 **Pre-defined Habit Descriptions for TeeLv User**
 TeeLv has been predefined with 5 habits as follows:
 
-    Morning Run:
+    🏃 Morning Run:
     Description: Run for 30 minutes every morning
     Periodicity: Daily
     Reminder: None
    
-    Read Book:
+    📚 Read Book:
     Description: Read a book for 1 hour
     Periodicity: Daily
     Reminder: Daily at 13:00
    
-    Weekly Meditation:
+    🧘‍♀️ Weekly Meditation:
     Description: Meditate for 2 hours every weekend
     Periodicity: Weekly
     Reminder: Weekly at 10:30
    
-    Guitar Practice:
+    🎸 Guitar Practice:
     Description: Practice playing the guitar for 1 hour
     Periodicity: Daily
     Reminder: None
