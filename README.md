@@ -9,11 +9,11 @@
    
 3️⃣  *Install Required Libraries* Run the following command to install the required libraries: 
 
-        pip install sqlite3
+    pip install sqlite3
    
 4️⃣  *Run the CLI* Navigate to the project directory in your terminal and run the following command: 
 
-        python cli.py
+    python cli.py
    
 This will start the Habit Tracker CLI and guide you through the available options.
 
