@@ -54,7 +54,7 @@ TeeLv has been predefined with 5 habits as follows:
     Periodicity: Daily
     Reminder: None
    
-    Learn 50 Words in Thai:
+    🗣️ Learn 50 Words in Thai:
     Description: Learn 50 words from a foreign language
     Periodicity: Monthly
     Reminder: None
