@@ -3,7 +3,7 @@
 
 🚀 **Getting Started**
 
-   1️⃣ Clone the Repository: *git clone https://github.com/VixitIU/HabitTrackingApp*.
+   1️⃣ Clone the Repository
    
    2️⃣ Dependencies
    Make sure you have Python 3.x installed on your system.
