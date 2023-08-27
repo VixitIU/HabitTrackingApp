@@ -20,7 +20,7 @@
    After logging in, you can add habits, view your habits/delete some if needed, mark habits as complete, check your rewards, view analytics, or log out.
 
 🔑 **Logging in as TeeLv**
-   To log in as user TeeLv, ensure that the provided SQLite database file is located in the same directory as the script or adjust the path in the code accordingly.
+   To log in as user TeeLv, ensure that the provided SQLite database file *habit.db* is located in the same directory as the script or adjust the path in the code accordingly.
    Username: TeeLv
    Password: 12
    Run the provided script and follow the login prompt. If the login is successful, the script will automatically populate TeeLv's habits, reminders, and completions.
