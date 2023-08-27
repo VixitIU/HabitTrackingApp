@@ -29,7 +29,11 @@ Ensure that the provided SQLite database file *habit.db* is located in the same 
     Password: 12
 If the login is successful, the program will be able to show TeeLv's analytics for 4 weeks of usage of the application. 
    
-❗In case the database is lost/damaged, navigate to the project directory in your terminal and run the following command: *python TeeLv.py*. This will automatically populate TeeLv's habits, reminders, and completions.
+❗In case the database is lost/damaged, navigate to the project directory in your terminal and run the following command:
+
+    python TeeLv.py 
+
+This will automatically populate TeeLv's habits, reminders, and completions.
 
 📜 **Pre-defined Habit Descriptions for TeeLv User**
 TeeLv has been predefined with 5 habits as follows:
