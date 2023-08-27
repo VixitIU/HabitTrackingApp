@@ -20,7 +20,7 @@ This will start the Habit Tracker CLI and guide you through the available option
 📖 **Usage**
 When you run the CLI, you'll be presented with options to *register*, *log in*, or *quit*.
 
-After 🔑 logging in, you can ➕ add habits, 👁️ view your habits/ 🧹 delete some if needed, ☑️ mark habits as complete, 🥇 check your rewards, 📈 view analytics, or 
+After 🔑 logging in, you can ➕ add habits, 👁️ view your habits / 🧹 delete some if needed, ☑️ mark habits as complete, 🥇 check your rewards, 📈 view analytics, or 
 👋 log out.
 
 🔑 **Logging in as TeeLv**
