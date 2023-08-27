@@ -28,30 +28,30 @@ If the login is successful, the program will be able to show TeeLv's analytics f
 📜 **Pre-defined Habit Descriptions for TeeLv User**
 TeeLv has been predefined with 5 habits as follows:
 
-    *Morning Run:*
+    Morning Run:
     Description: Run for 30 minutes every morning
     Periodicity: Daily
     Reminder: None
    
-    *Read Book:*
-     Description: Read a book for 1 hour
-     Periodicity: Daily
-     Reminder: Daily at 13:00
+    Read Book:
+    Description: Read a book for 1 hour
+    Periodicity: Daily
+    Reminder: Daily at 13:00
    
-*Weekly Meditation:*
-Description: Meditate for 2 hours every weekend
-Periodicity: Weekly
-Reminder: Weekly at 10:30
+    Weekly Meditation:
+    Description: Meditate for 2 hours every weekend
+    Periodicity: Weekly
+    Reminder: Weekly at 10:30
    
-*Guitar Practice:*
-Description: Practice playing the guitar for 1 hour
-Periodicity: Daily
-Reminder: None
+    Guitar Practice:
+    Description: Practice playing the guitar for 1 hour
+    Periodicity: Daily
+    Reminder: None
    
-*Learn 50 Words in Thai:*
-Description: Learn 50 words from a foreign language
-Periodicity: Monthly
-Reminder: None
+    Learn 50 Words in Thai:
+    Description: Learn 50 words from a foreign language
+    Periodicity: Monthly
+    Reminder: None
 
 🏆 **Reward System**
 
