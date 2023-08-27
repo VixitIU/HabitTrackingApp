@@ -11,7 +11,7 @@
    
         4️⃣  *Run the CLI* Navigate to the project directory in your terminal and run the following command: *python cli.py*.
    
-    This will start the Habit Tracker CLI and guide you through the available options.
+This will start the Habit Tracker CLI and guide you through the available options.
 
 📖 **Usage**
 When you run the CLI, you'll be presented with options to *register*, *log in*, or *quit*.
@@ -19,8 +19,8 @@ After logging in, you can add habits, view your habits/delete some if needed, ma
 
 🔑 **Logging in as TeeLv**
 Ensure that the provided SQLite database file *habit.db* is located in the same directory as the script. To log in as user TeeLv use:
-Username: TeeLv
-Password: 12
+    Username: TeeLv
+    Password: 12
 If the login is successful, the program will be able to show TeeLv's analytics for 4 weeks of usage of the application. 
    
 ❗In case the database is lost/damaged, navigate to the project directory in your terminal and run the following command: *python TeeLv.py*. This will automatically populate TeeLv's habits, reminders, and completions.
@@ -28,15 +28,15 @@ If the login is successful, the program will be able to show TeeLv's analytics f
 📜 **Pre-defined Habit Descriptions for TeeLv User**
 TeeLv has been predefined with 5 habits as follows:
 
-*Morning Run:*
-Description: Run for 30 minutes every morning
-Periodicity: Daily
-Reminder: None
+    *Morning Run:*
+    Description: Run for 30 minutes every morning
+    Periodicity: Daily
+    Reminder: None
    
-*Read Book:*
-Description: Read a book for 1 hour
-Periodicity: Daily
-Reminder: Daily at 13:00
+    *Read Book:*
+     Description: Read a book for 1 hour
+     Periodicity: Daily
+     Reminder: Daily at 13:00
    
 *Weekly Meditation:*
 Description: Meditate for 2 hours every weekend
