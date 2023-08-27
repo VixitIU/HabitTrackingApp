@@ -1,7 +1,7 @@
-**Habit Tracker CLI** 📋
+**Habit Tracker CLI** 🎯
    This is a Command Line Interface (CLI) application designed to help users track their habits and monitor their progress. Users can register, log in, add habits, mark habits as complete, view analytics, and more, all through a text-based interface.
 
-🚀 **Getting Started**
+📋 **Getting Started**
 
    1️⃣ Clone the Repository
    
@@ -15,7 +15,7 @@
    Navigate to the project directory in your terminal and run the following command: *python cli.py*.
    This will start the Habit Tracker CLI and guide you through the available options.
 
-📘 **Usage**
+📖 **Usage**
    When you run the CLI, you'll be presented with options to *register*, *log in*, or *quit*.
    After logging in, you can add habits, view your habits/delete some if needed, mark habits as complete, check your rewards, view analytics, or log out.
 
@@ -25,7 +25,7 @@
    Password: 12
    If the login is successful, the program will be able to show TeeLv's analytics for 4 weeks of usage of the application. 
    
-   *In case the database is lost/damaged, navigate to the project directory in your terminal and run the following command: *python TeeLv.py*. This will automatically populate TeeLv's habits, reminders, and completions.
+   :exclamation: In case the database is lost/damaged, navigate to the project directory in your terminal and run the following command: *python TeeLv.py*. This will automatically populate TeeLv's habits, reminders, and completions.
 
 📜 **Pre-defined Habit Descriptions for TeeLv User**
    TeeLv has been predefined with 5 habits as follows:
