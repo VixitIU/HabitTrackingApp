@@ -16,8 +16,8 @@
    This will start the Habit Tracker CLI and guide you through the available options.
 
 📘 **Usage**
-   When you run the CLI, you'll be presented with options to register, log in, or quit.
-   After logging in, you can add habits, view your habits, mark habits as complete, check your rewards, view analytics, or log out.
+   When you run the CLI, you'll be presented with options to *register*, *log in*, or *quit*.
+   After logging in, you can add habits, view your habits/delete some if needed, mark habits as complete, check your rewards, view analytics, or log out.
 
 🔑 **Logging in as TeeLv**
    To log in as user TeeLv, ensure that the provided SQLite database file is located in the same directory as the script or adjust the path in the code accordingly.
