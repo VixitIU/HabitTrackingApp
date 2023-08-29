@@ -182,7 +182,7 @@ def main_cli():
                 print(f"Monthly habits count: {len(analytics.getHabitsByPeriodicity('monthly'))}")
                 print(f"Longest streak across all habits: {analytics.getLongestStreakAllHabits()}")
 
-                # New functionality to get the longest streak for a specific habit.
+                # Get the longest streak for a specific habit.
                 specific_habit_query = input("Do you want to get the longest streak for a specific habit? (yes/no): ").lower()
 
                 if specific_habit_query == 'yes':
