@@ -66,7 +66,7 @@ TeeLv has been predefined with 5 habits as follows:
 🏆 **Reward System**
 
 *Points and Broken Streaks:*
-Upon successful login, the system will check for any broken streaks for user's habits. Every time a streak is broken, a user will be penalized by deducting 10 points. However, this deduction is executed only once on a given date. This means if a user logs out and logs back in on the same date, the points will not be deducted again. *Example:* If TeeLv has broken 3 streaks today and hasn't logged in until today, 30 points will be deducted upon the first login. Subsequent logins on the same day will not lead to further deductions.
+For every habit marked as completed, the system will award a user with 10 points. Upon successful login, the system will check for any broken streaks for user's habits. Every time a streak is broken, a user will be penalized by deducting 10 points. However, this deduction is executed only once on a given date. This means if a user logs out and logs back in on the same date, the points will not be deducted again. *Example:* If TeeLv has broken 3 streaks today and hasn't logged in until today, 30 points will be deducted upon the first login. Subsequent logins on the same day will not lead to further deductions.
    
 *Check Points:*
 To check the total points, use option "4" in the menu.
@@ -80,4 +80,5 @@ Navigate to the project directory in your terminal and run the following command
 🛠 **Technology Stack**
 
 Language: Python
+
 Database: SQLite
